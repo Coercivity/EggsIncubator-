@@ -1,2 +1,5 @@
 # EggsIncubator-
-Arduino328p incubator project
+Built with Arduino328p microcontroller.
+
+
+[alt text](MPS.BMP)
